@@ -1,11 +1,11 @@
 // HomePage.js
-import React from 'react';
+import React from "react";
 
 const HomePage = () => {
   return (
     <div>
-      <h2>Welcome to the Contact Page</h2>
-      <p>This is the main content of the contact page.</p>
+      <h2>Contact</h2>
+      <p>You can find me on these platforms:</p>
     </div>
   );
 };

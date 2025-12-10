@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <nav>
-      <h1>Hello!</h1>
+      <h1>Jimmy Lee</h1>
     </nav>
   );
 };

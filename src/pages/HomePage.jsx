@@ -1,11 +1,14 @@
 // HomePage.js
-import React from 'react';
+import React from "react";
 
 const HomePage = () => {
   return (
     <div>
-      <h2>Welcome to the Home Page</h2>
-      <p>This is the main content of the home page.</p>
+      <h2>Welcome to my Developer portfolio</h2>
+      <p>
+        Here's a selection of projects I worked on the Step8Up skills bootcamp
+        in Full Stack Web Development
+      </p>
     </div>
   );
 };
